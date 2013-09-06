@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterface", "First\UserInterface.csproj", "{77C74C77-C02F-4FD0-8D93-7A6C584C09E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage", "Storage\Storage.csproj", "{D17952DC-4856-4419-9974-2261BFFA816F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{79A88140-5C59-429F-87D3-D72DAB7F14E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C74C77-C02F-4FD0-8D93-7A6C584C09E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C74C77-C02F-4FD0-8D93-7A6C584C09E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C74C77-C02F-4FD0-8D93-7A6C584C09E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C74C77-C02F-4FD0-8D93-7A6C584C09E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17952DC-4856-4419-9974-2261BFFA816F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17952DC-4856-4419-9974-2261BFFA816F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17952DC-4856-4419-9974-2261BFFA816F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17952DC-4856-4419-9974-2261BFFA816F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A88140-5C59-429F-87D3-D72DAB7F14E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A88140-5C59-429F-87D3-D72DAB7F14E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A88140-5C59-429F-87D3-D72DAB7F14E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A88140-5C59-429F-87D3-D72DAB7F14E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
